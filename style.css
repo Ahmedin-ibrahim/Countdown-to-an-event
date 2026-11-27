@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #e6e6ff;
+    padding: 50px;
+}
+
+h1 {
+    color: purple;
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+}
+
+button {
+    padding: 10px;
+    background: purple;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#timer {
+    font-size: 30px;
+    color: blue;
+}
